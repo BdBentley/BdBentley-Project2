@@ -1,1 +1,17 @@
+Summarize the project and what problem it was solving.
+This project was to create an investment account that could be tracked over time and represent an account with and without monthly deposits. The accounsts were made for a company called Airgead Banking.
 
+What did you do particularly well?
+I beleive that my flowchart was alright, except looking back on this program I forgot to actually add in the input validation for creating the account.
+
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+Create the input validation while loop before the code executres to ensure that the user had used the correct input. Otherwise you will get some wonky errors.
+
+Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+I believe that setting up and calling objects can be difficult, however in general I just plan on working with C++ more in the future.
+
+What skills from this project will be particularly transferable to other projects or course work?
+Doing math operations and having your code give the correct output. Also even though I didn't get to it, making sure that the user has given the correct data through input validation will carry over to every program.
+
+How did you make this program maintainable, readable, and adaptable?
+I believe the comments I put in this program were readable. However the code can definitely be refactored as well as adding a while loop.
